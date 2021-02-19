@@ -16,8 +16,8 @@ Individual projects are available upon request as repositories are currently pri
 - Meteorite modelling. 5 day Python assessment in groups of 8 on modelling a meteorite entry using various numerical methods and calculating casualties using API data. Mark: B 
 
 ## Other projects 
-- 2020 BP Imperial College Data Science Hackathon. 1 day hackathon revolving around creating a classification model using text data. Result: 1st. place
-- Automatic chess robot (2019). 3 month group project - Designing, bulding and programming (python, c++) a fully automatic chess robot at Reykjavik University. Result: 98%
+- 2020 BP Imperial College Data Science Hackathon: 1 day hackathon revolving around creating a classification model using text data. Result: 1st. place
+- Automatic chess robot: 3 month group project - Designing, bulding and programming (python, c++) a fully automatic chess robot at Reykjavik University. Result: 98%
   https://youtu.be/03NnNebqr6M
-- M&M Sorter. 3 month individual project - Designing and programming an M&M color sorter using C without using any external libraries at Reykjavik University. Result 95%
+- M&M Sorter: 3 month individual project - Designing and programming an M&M color sorter using C without using any external libraries at Reykjavik University. Result 95%
   https://youtu.be/tPATVSBQtFg
