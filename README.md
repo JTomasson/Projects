@@ -8,12 +8,12 @@ Individual projects are available upon request as repositories are currently pri
 - Numerical methods: a month long coursework based utilizing various methods to model the unsteady advection diffusion equation. Mark: A*
 
 ## C++ programming 
-- Matrix: 5 day long assessment in groups of 3 on utilizing various programming methods in C++ in order to build a linear solver. Mark: Pending
+- Matrix: 5 day long assessment in groups of 3 on utilizing various programming methods in C++ in order to build a collection of linear solvers. Mark: A*
 - Open MP: 7 day long assessment in groups of 3 on optimizing code and utilizing OpenMP to do data intensive calculations. Mark: Pending
   https://acse-2020.github.io/group-project-charlie-s-angels/
 
 ## Large group projects
-- Meteorite modelling. 5 day Python assessment in groups of 8 on modelling a meteorite entry using various numerical methods and calculating casualties using API data. Mark: B 
+- Meteorite modelling. 5 day Python assessment in groups of 8 on modelling a meteorite entry using various numerical methods and calculating casualties using various data. Mark: B 
 
 ## Other projects 
 - 2020 BP Imperial College Data Science Hackathon: 1 day hackathon revolving around creating a classification model using text data. Result: 1st. place
