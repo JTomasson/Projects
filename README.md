@@ -1,5 +1,5 @@
 # Projects
-Individual projects are available upon request as repositories are currently private due to them being courseworks at Imperial College London.
+Individual projects are available upon request.
 
 ## Python programming
 - Conways Game of life: 76 hour assessment on utilizing various Python libraries. Mark: A*
