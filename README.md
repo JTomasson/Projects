@@ -11,10 +11,12 @@ Individual projects are available upon request.
 - Matrix: 5-day long assessment in groups of 3 on utilizing various programming methods in C++ to build a collection of linear solvers. Mark: A*
 - Open MP: 7-day long assessment in groups of 3 on utilizing OpenMP to do data intensive calculations. Mark: A*
   https://acse-2020.github.io/group-project-charlie-s-angels/
+- Open MP: 4 week long individual assessment on creating a parallel solver for the wave equation with domain decomposition using MPI. Mark: Pending
+  https://acse-2020.github.io/group-project-charlie-s-angels/
 
 ## Large group projects
 - Meteorite modelling. 5-day Python assessment in groups of 8 on modelling a meteorite entry using various numerical methods and calculating casualties using various data. Mark: B 
-- Genetic algorithms. 5-day C++ coursework in groups of 8 optimizing centrifuge setup for mineral extraction using genetic algorithms. Mark: Pending
+- Genetic algorithms. 5-day C++ coursework in groups of 8 optimizing centrifuge setup for mineral extraction using genetic algorithms. Mark: B
 
 ## Other projects 
 - 2020 BP Imperial College Data Science Hackathon: 1 day hackathon revolving around creating a classification model using text data. Result: 1st. place
