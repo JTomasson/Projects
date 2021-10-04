@@ -6,7 +6,7 @@ Please [contact](mailto:jon.tomasson1@gmail.com) for repositories of non-linked 
    [https://github.com/acse-jat20/DD-GAN](https://github.com/acse-jat20/DD-GAN)
 
 ## Publications
-   This section comprises of research performed while finishing my BSc in Mechatronics Engineering.
+This section comprises of research performed while finishing my BSc in Mechatronics Engineering.
  - Quasi-Global Optimization of Antenna Structures Using Principal Components and Affine Subspace-Spanned Surrogates 
    [https://ieeexplore.ieee.org/abstract/document/9032164](https://ieeexplore.ieee.org/abstract/document/9032164)
  - Expedited design closure of antenna input characteristics by trust region gradient search and principal component analysis 
