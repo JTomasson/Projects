@@ -12,12 +12,12 @@ Please [contact](mailto:jon.tomasson1@gmail.com) for non-linked projects.
  - https://www.mdpi.com/2079-9292/9/4/673
 
 ## Python programming
-- Conways Game of life: 76-hour assessment on utilizing various Python libraries. Mark: A*
-- Data wrangling:  48-hour assessment on utilizing API, docker, pandas and flask. Mark: A*
-- Testing, debugging, CI and optimization: 76-hour assessment on best practices. Mark: A
 - Numerical methods: a month-long coursework based utilizing various methods to model the unsteady advection diffusion equation. Mark: A*
 - Inversion and optimization: a month-long coursework based on the advanced concepts in inversion and optimization. Mark: A*
 - AI: a weeklong exploration of various fully connected architectures and data augmentation strategies in PyTorch. Mark: A
+- Conways Game of life: 76-hour assessment on utilizing various Python libraries. Mark: A*
+- Data wrangling:  48-hour assessment on utilizing API, docker, pandas and flask. Mark: A*
+- Testing, debugging, CI and optimization: 76-hour assessment on best practices. Mark: A
 
 ## C++ programming 
 - Matrix: 5-day long assessment in groups of 3 on utilizing various programming methods in C++ to build a collection of linear solvers. Mark: A*
