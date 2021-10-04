@@ -1,5 +1,5 @@
 # Projects
-Please [contact](mailto:jon.tomasson1@gmail.com) for non-linked projects.
+Please [contact](mailto:jon.tomasson1@gmail.com) for repositories of non-linked projects or further information.
 
 ## Final MSC thesis paper
  - Domain Decomposition and Generative Adversarial Networks for modelling fluid flow using TensorFlow. Mark: A* 
