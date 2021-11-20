@@ -13,6 +13,8 @@ This section comprises of research performed while finishing my BSc in Mechatron
    [https://ieeexplore.ieee.org/abstract/document/8950188](https://ieeexplore.ieee.org/abstract/document/8950188)
  - Expedited Globalized Antenna Optimization by Principal Components and Variable-Fidelity EM Simulations: Application to Microstrip Antenna Design 
    [https://www.mdpi.com/2079-9292/9/4/673](https://www.mdpi.com/2079-9292/9/4/673)
+ - Quasi-global optimization of antenna structures using principal components and affine subspace-spanned surrogates
+   [https://ieeexplore.ieee.org/abstract/document/9582105](https://ieeexplore.ieee.org/abstract/document/9582105)
 
 
 ## Python programming
